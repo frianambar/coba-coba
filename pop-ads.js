@@ -13,7 +13,8 @@ $(document).ready(function()
 		    if (scroll >= 200) {
 		        $('#popbox').removeClass('hide');
 		    }
-		    console.log('scroll..');                    
+		    console.log('scroll..');
+			console.log('click..');
 		});
     }
 
