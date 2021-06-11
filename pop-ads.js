@@ -14,7 +14,6 @@ $(document).ready(function()
 		        $('#popbox').removeClass('hide');
 		    }
 		    console.log('scroll..');
-			console.log('click..');
 		});
     }
 
